@@ -19,4 +19,4 @@ El punto 3 de este trabajo consiste en agregar un state al component Mensaje y u
 - Herrera Victor Fernando
 
 ### Para probar el proyecto
-solo deben dirigirse al siguiente link : 
+solo deben dirigirse al siguiente link :  https://tpreactpunto3.netlify.app/
