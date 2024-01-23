@@ -1,13 +1,10 @@
-
 import './App.css'
-
+import Mensaje from "./components/Mensaje"
 function App() {
   return (
-    <div>
-      <p>
-        mensaje de prueba
-      </p>
-    </div>
+    <main>
+        <Mensaje amigo="my friend"></Mensaje>
+    </main>
   )
 }
 
